@@ -1,0 +1,54 @@
+.fc-day-header
+{
+    border: none !important;
+    font-weight: normal !important;
+    text-transform: uppercase !important;
+    text-align: left !important;
+}
+
+.fc .fc-toolbar>*>* {    
+    margin-left: 0px !important;
+}
+
+.fc-toolbar
+{
+    position:relative !important;
+}
+
+.fc-day-number
+{
+    float: left !important;
+}
+
+.fc-left
+{
+    bottom:0px !important;
+    position: absolute !important;
+}
+
+.fc-left h2
+{
+    display: inline!important;
+    font-size: medium !important;
+    padding-left: 8px !important;
+    font-weight: normal !important;
+}
+
+.fc-button
+{
+    border-radius: 17px !important;
+    font-size: x-small !important;
+}
+
+.fc-event
+{
+    border-radius: 0px !important;
+    
+    border: solid 1px #c6c6c6 !important;
+}
+
+.ms-Panel-main
+{
+    width:700px !important;
+}
+
